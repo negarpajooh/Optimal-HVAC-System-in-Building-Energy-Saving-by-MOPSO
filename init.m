@@ -1,0 +1,1 @@
+global  Q1 Q2   Tsupply Tout T T1 NFE N Msupply
